@@ -3,12 +3,11 @@
   "iso_639_code": "vi",
   "name": "Tiếng Việt 🇻🇳",
   "start": "👋 Chào boss! Bot Crypto Hot News đã online.\nGõ /help để xem lệnh.",
-  "help": "📜 Lệnh có sẵn:\n/sub — Thêm RSS\n/list — Xem danh sách\n/set_default — Cài đặt mặc định\n/lang — Đổi ngôn ngữ\n/test — Test tin",
+  "help": "📜 Lệnh:\n/sub — Thêm RSS\n/list — Xem danh sách\n/set_default — Cài mặc định\n/lang — Đổi ngôn ngữ\n/test — Test",
   "subscribed_successfully": "✅ Đã theo dõi thành công",
   "failed_to_subscribe": "❌ Không theo dõi được (feed lỗi hoặc bị chặn)",
-  "list": "📋 Danh sách feed đang theo dõi:",
-  "no_subscription": "Chưa có feed nào. Dùng /sub để thêm tin crypto.",
-  "set_default_success": "✅ Đã lưu cài đặt mặc định.",
-  "language_changed": "🌐 Đã chuyển sang Tiếng Việt thành công!",
-  "commands_updated": "Bot đã hỗ trợ tiếng Việt."
+  "list": "📋 Danh sách feed:",
+  "no_subscription": "Chưa có feed nào. Dùng /sub để thêm.",
+  "set_default_success": "✅ Đã lưu cài đặt.",
+  "language_changed": "🌐 Đã chuyển sang Tiếng Việt!"
 }
